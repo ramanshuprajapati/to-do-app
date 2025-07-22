@@ -21,4 +21,6 @@ It allows users to manage daily tasks — add, check, and delete — while stori
 - CSS3
 - JavaScript (DOM Manipulation + localStorage)
 
+## 📸 Screenshot
 
+![App Screenshot](./screenshot.png)
